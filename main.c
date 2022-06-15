@@ -2,9 +2,9 @@
 
   @file         main.c
 
-  @author       Stephen Brennan
+  @author       John Sotonwa & Nwafor Emmanuel
 
-  @date         Thursday,  8 January 2015
+  @date         Wednesday,  15 June 2022
 
   @brief        LSH (Libstephen SHell)
 
